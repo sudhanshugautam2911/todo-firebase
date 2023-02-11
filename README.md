@@ -3,8 +3,6 @@
 ### Click on link to open
 https://todo-firebase-db621.web.app/
 
-# ---> PROJECT DEPLOYED
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
