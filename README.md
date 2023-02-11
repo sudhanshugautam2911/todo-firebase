@@ -1,9 +1,9 @@
----> PROJECT DEPLOYED  <---
+# ---> PROJECT DEPLOYED
 
-# Click oon link to open
+### Click on link to open
 https://todo-firebase-db621.web.app/
 
----> PROJECT DEPLOYED  <---
+# ---> PROJECT DEPLOYED
 
 # Getting Started with Create React App
 
